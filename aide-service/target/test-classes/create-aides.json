@@ -1,0 +1,16 @@
+{
+    "aides": [
+        {
+            "id": 1,
+            "name": "Johnny Cash"
+        },
+        {
+            "id": 2,
+            "name": "Betty Boop"
+        },
+        {
+            "id": 3,
+            "name": "Kim Kardashian"
+        }
+    ]
+}

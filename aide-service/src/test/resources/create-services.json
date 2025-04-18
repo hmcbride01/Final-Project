@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Home Cleaning"
+    },
+    {
+        "id": 2,
+        "serviceName": "Gardening"
+    },
+    {
+        "id": 3,
+        "serviceName": "Personal Shopping"
+    }
+]
